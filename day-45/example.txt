@@ -1,0 +1,4 @@
+Initial line 1
+Initial line 2
+Appended line 3
+Appended line 4
